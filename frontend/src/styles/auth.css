@@ -15,6 +15,7 @@ body {
   left: 20px;
   font-size: 18px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .auth-card {

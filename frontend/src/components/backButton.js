@@ -3,9 +3,7 @@ import "./../styles/auth.css";
 
 function BackButton() {
   return (
-    <div className="back-btn">
-      ← Back
-    </div>
+    <a className="back-btn" href="/">← Back</a>
   );
 }
 

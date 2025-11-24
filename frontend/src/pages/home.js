@@ -40,7 +40,7 @@ function Home() {
             <p className="card-text">
               Book trusted professionals for your home service needs
             </p>
-            <a href="#" className="card-link">Get Started →</a>
+            <a href="/customer-login" className="card-link">Get Started →</a>
           </div>
 
           <div className="card">
@@ -49,7 +49,7 @@ function Home() {
             <p className="card-text">
               Find jobs, manage bookings, and grow your business
             </p>
-            <a href="#" className="card-link">Start Earning →</a>
+            <a href="/worker-login" className="card-link">Start Earning →</a>
           </div>
 
         </div>
