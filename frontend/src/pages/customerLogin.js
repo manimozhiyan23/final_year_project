@@ -1,6 +1,6 @@
 import React from "react";
 import "./../styles/auth.css";
-import BackButton from "../components/backButton";
+import BackButton from "../components/BackButton.js";
 
 function CustomerLogin() {
   return (
